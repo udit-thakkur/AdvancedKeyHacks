@@ -15,8 +15,8 @@
 - ./hackcura_apikey_hacks.sh
 
 ## Donation (Buy Me a Coffee)
-**You can encourage me me to contribute more to the open source with donations.**
-**NEVER ASKED BUT ALWAYS APPRECIATED.** 
+You can encourage me me to contribute more to the open source with donations.
+NEVER ASKED BUT ALWAYS APPRECIATED.
 - PayPal - https://paypal.me/uditbhadauria
 - Credit/Debit Card - https://www.buymeacoffee.com/s0md3v 
 
