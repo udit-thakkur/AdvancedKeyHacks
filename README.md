@@ -4,6 +4,8 @@
 
 ## Usage
 
+- apt-get install jq (for linux) | brew install jq (for MAC OS)
+
 - git clone https://github.com/udit-thakkur/AdvancedKeyHacks.git
 
 - cd AdvancedKeyHacks
