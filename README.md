@@ -2,7 +2,7 @@
 
 > This tool is for exploitation of API tokens/keys. Right now, We have added APIs that can be found in wild. With time, we will add more exploitable API Keys/Tokens.
 
-## Installation
+## Installation:
 
 - apt-get install jq (for linux) | brew install jq (for MAC OS)
 
@@ -12,22 +12,22 @@
 
 - chmod +x hackcura_apikey_hacks.sh
 
-## Usage
+## Usage:
 
 - ./hackcura_apikey_hacks.sh
 
-## Donation (Buy Me a Coffee)
+## Donation (Buy Me a Coffee):
 You can encourage me me to contribute more to the open source with donations.
 NEVER ASKED BUT ALWAYS APPRECIATED.
 - PayPal - https://paypal.me/uditbhadauria
 - Credit/Debit Card - https://www.buymeacoffee.com/uditthakkur
 
-## Team
+## Team:
 >Udit Thakkur   -  https://www.twitter.com/udit_thakkur
 
 >Harshit Sengar -  https://www.twiiter.com/sengarharshit1
 
-## Credit To
+## Credits To:
 @streaak (Creator of KeyHacks) - https://github.com/streaak/keyhacks
 
 
