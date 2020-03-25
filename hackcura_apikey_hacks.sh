@@ -363,7 +363,13 @@ case $number in
 		curl -s -v -X GET "https://api.sandbox.paypal.com/v1/identity/oauth2/userinfo?schema=paypalv1.1" -H "Content-Type: application/json" -H "Authorization: Bearer $bearer"
 		echo ""
 		;;
-
+	
+	46)
+		echo -n "Enter IPStack Key: "
+		read key
+		curl -s https://api.ipstack.com/check?access_key=$key | jq .
+		;;
+		
 	*)
 		echo "Please give valid choice!!!"
 		;;
