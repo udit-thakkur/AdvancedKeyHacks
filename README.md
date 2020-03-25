@@ -18,7 +18,7 @@
 You can encourage me me to contribute more to the open source with donations.
 NEVER ASKED BUT ALWAYS APPRECIATED.
 - PayPal - https://paypal.me/uditbhadauria
-- Credit/Debit Card - https://www.buymeacoffee.com/s0md3v 
+- Credit/Debit Card - https://www.buymeacoffee.com/uditthakkur
 
 ## Team
 >Udit Thakkur   -  https://www.twitter.com/udit_thakkur
