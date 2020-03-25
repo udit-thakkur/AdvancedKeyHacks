@@ -26,6 +26,7 @@ echo	" 34. Mailchimp Accesskey and Username   35. WPEngine API key & Account Nam
 echo	" 37. Travis CI API Token               38. WakaTime API Key                        39. Spotify Access Token/Bearer Token				"
 echo	" 40. Instagram Access Token            41. Gitlab Personal/Private Token           42. Stripe Live Token								"
 echo	" 43. CicrcleCI Access Token            44. Razorpay API Key ID & Secret Key        45. Paypal ClientID & Secret						"
+echo    " 46. IP Stack Key "
 echo ""
 echo -n "Enter the respective number from list that you want to exploit: "
 read number
