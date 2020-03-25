@@ -23,4 +23,4 @@
 @streaak (Creator of KeyHacks) - https://github.com/streaak/keyhacks
 
 
-### Note:- If you find any mistake or any new API Key/Token that is exploitable, feel free to open a pull request.
+### Note:- If you find any mistake or any new API Key/Token that is exploitable, feel free to open a pull requests/issues.
