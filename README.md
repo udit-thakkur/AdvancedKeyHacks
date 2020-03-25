@@ -31,4 +31,8 @@ NEVER ASKED BUT ALWAYS APPRECIATED.
 @streaak (Creator of KeyHacks) - https://github.com/streaak/keyhacks
 
 
-### Note:- If you find any mistake or any new API Key/Token that is exploitable, feel free to open a pull requests/issues.
+## Note:
+If you find any mistake or any new API Key/Token that is exploitable, feel free to open a pull requests/issues.
+
+## Legal Disclaimer:
+The script is made for educational and ethical purposes only. Usage of the script for attacking targets without prior mutual consent is illegal. Team Hackcura is not responsible for any misuse or damage caused by this script.
