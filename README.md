@@ -2,7 +2,7 @@
 
 > This tool is for exploitation of API tokens/keys. Right now, We have added APIs that can be found in wild. With time, we will add more exploitable API Keys/Tokens.
 
-## Usage
+## Installation
 
 - apt-get install jq (for linux) | brew install jq (for MAC OS)
 
@@ -11,6 +11,8 @@
 - cd AdvancedKeyHacks
 
 - chmod +x hackcura_apikey_hacks.sh
+
+## Usage
 
 - ./hackcura_apikey_hacks.sh
 
