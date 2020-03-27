@@ -25,7 +25,7 @@ NEVER ASKED BUT ALWAYS APPRECIATED.
 ## Team:
 >Udit Thakkur   -  https://www.twitter.com/udit_thakkur
 
->Harshit Sengar -  https://www.twiiter.com/sengarharshit1
+>Harshit Sengar -  https://www.twitter.com/sengarharshit1
 
 ## Credits To:
 @streaak (Creator of KeyHacks) - https://github.com/streaak/keyhacks
