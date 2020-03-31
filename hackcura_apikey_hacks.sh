@@ -20,7 +20,7 @@ echo	" 16. Square ClientID, Secret & Token   17. Dropbox API Bearer/Auth Token  
 echo	" 19. Jumpcloud API key                 20. Heroku API key/Bearer Token             21. Microsoft Azure Client ID, secret & Tenant ID	"
 echo	" 22. Mapbox API key                    23. Salesforce API Key/Bearer Token         24. Zapier Webhook URL & Username					"
 echo	" 25. FreshDesk Domain & API key        26. PagerDuty API Token                     27. Browser Stack Access Key and Username			"
-echo	" 28. Google MAPS API key               29. Brach.io Key & secret                   30. bit.ly Access Token								"
+echo	" 28. Google MAPS API key               29. Branch.io Key & secret                   30. bit.ly Access Token								"
 echo	" 31. Buildkite Access Token            32. Asana Access Token/Bearer Token         33. Zendesk helpdesl domain & Access Token			"
 echo	" 34. Mailchimp Accesskey and Username   35. WPEngine API key & Account Name         36. DataDog API Key & Application Key				"
 echo	" 37. Travis CI API Token               38. WakaTime API Key                        39. Spotify Access Token/Bearer Token				"
