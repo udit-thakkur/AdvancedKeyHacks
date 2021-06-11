@@ -20,13 +20,13 @@ echo	" 16. Square ClientID, Secret & Token   17. Dropbox API Bearer/Auth Token  
 echo	" 19. Jumpcloud API key                 20. Heroku API key/Bearer Token             21. Microsoft Azure Client ID, secret & Tenant ID	"
 echo	" 22. Mapbox API key                    23. Salesforce API Key/Bearer Token         24. Zapier Webhook URL & Username					"
 echo	" 25. FreshDesk Domain & API key        26. PagerDuty API Token                     27. Browser Stack Access Key and Username			"
-echo	" 28. Google MAPS API key               29. Branch.io Key & secret                   30. bit.ly Access Token								"
+echo	" 28. Google MAPS API key               29. Branch.io Key & secret                  30. bit.ly Access Token								"
 echo	" 31. Buildkite Access Token            32. Asana Access Token/Bearer Token         33. Zendesk helpdesl domain & Access Token			"
-echo	" 34. Mailchimp Accesskey and Username   35. WPEngine API key & Account Name         36. DataDog API Key & Application Key				"
+echo	" 34. Mailchimp Accesskey and Username  35. WPEngine API key & Account Name         36. DataDog API Key & Application Key				"
 echo	" 37. Travis CI API Token               38. WakaTime API Key                        39. Spotify Access Token/Bearer Token				"
 echo	" 40. Instagram Access Token            41. Gitlab Personal/Private Token           42. Stripe Live Token								"
 echo	" 43. CicrcleCI Access Token            44. Razorpay API Key ID & Secret Key        45. Paypal ClientID & Secret						"
-echo    " 46. IP Stack Key "
+echo    " 46. IP Stack Key                      47. PivotalTracker API Token "
 echo ""
 echo -n "Enter the respective number from list that you want to exploit: "
 read number
@@ -370,9 +370,16 @@ case $number in
 		read key
 		curl -s https://api.ipstack.com/check?access_key=$key | jq .
 		;;
+	
+	47)
+		echo -n "Enter PivotalTracker API Token: "
+		read token
+		curl -s -X GET -H "X-TrackerToken: $token" "https://www.pivotaltracker.com/services/v5/me" | jq .
+		;;
 		
 	*)
 		echo "Please give valid choice!!!"
 		;;
 
 esac
+
